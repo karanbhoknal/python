@@ -60,11 +60,13 @@ Enter text and click Analyze
 
 View results instantly on the page
 
+
 How It Works (Step-by-Step)
 
 User enters text in the browser interface
 
 JavaScript sends text to a Python HTTP server
+
 
 Python calculates:
 
@@ -84,6 +86,8 @@ Server sends results back as JSON
 
 JavaScript dynamically displays results on the page
 
+
+
 Skills Learned
 
 Real-time Python ↔ frontend integration
@@ -93,6 +97,7 @@ Basic NLP and sentiment analysis
 Handling JSON requests/responses
 
 Building interactive web tools
+
 
 Future Enhancements
 
